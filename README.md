@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Rank](https://make.fun/badge/gta6-meme-x-01/Cervus121212/misty-jaguar-44/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Reward](https://make.fun/badge/gta6-meme-x-01/Cervus121212/misty-jaguar-44/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 # gta6-meme-x-01 — "13 Years Waiting for GTA 6"
 
 Entry for make.fun bounty **gta6-meme-x-01** ($500, top 50 paid, closes
